@@ -13,7 +13,7 @@ Step-by-step instructions to create the foundation for a custom myAvatar™ web 
 ## Templates
 
 * [A custom myAvatar™ web service template ](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)<br>
-A custom myAvatar™ web services template.
+The foundation for a custom myAvatar™ web services that you can use to add custom functionality to your myAvatar™ environments.
   
 ## Dependencies
 
