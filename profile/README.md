@@ -4,23 +4,19 @@ The **myAvatar™ Development Community** contains community-driven documentatio
 
 ## Documentation
 
-* [How to create a custom myAvatar™ web service from scratch](https://github.com/myAvatar-Development-Community/document-creating-a-custom-web-service)<br>
-Step-by-step instructions to create the foundation for a custom myAvatar™ web service that you can use to add custom functionality to your myAvatar™ environments.
-
-* [Hosting custom myAvatar™ web services](https://github.com/myAvatar-Development-Community/document-hosting-custom-web-services)<br>
-Step-by-step instructions for using Microsoft IIS to host your custom myAvatar™ web service.
+* [How to create a custom myAvatar™ web service from scratch](https://github.com/myAvatar-Development-Community/document-creating-a-custom-web-service)
+* [Hosting custom myAvatar™ web services](https://github.com/myAvatar-Development-Community/document-hosting-custom-web-services)
 
 ## Projects
 * Coming soon
 
 ## Templates
 
-* [A custom myAvatar™ web service template ](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)<br>
-The foundation for a custom myAvatar™ web services that you can use to add custom functionality to your myAvatar™ environments.
+* [A custom myAvatar™ web service template ](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)
   
 ## Dependencies
 
-* [Netsmart ScriptLink Service](https://github.com/myAvatar-Development-Community/dependency-netsmart-scriptlink-service)<br>The Netsmart ScriptLink Service, required for myAvatar™ web services.
+* [Netsmart ScriptLink Service](https://github.com/myAvatar-Development-Community/dependency-netsmart-scriptlink-service)
 
 ## Additional Resources
 
