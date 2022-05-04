@@ -1,4 +1,6 @@
-# myAvatar Developer Community
+# Welcome to the myAvatar Development Community
+
+The myAvatar Development Community contains community-driven documentation, projects, and templates for Netsmart's myAvatar™ EHR.
 
 ## Documentation
 
