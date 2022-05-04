@@ -1,6 +1,6 @@
-# Welcome to the myAvatar Development Community
+# Welcome to the myAvatar™ Development Community
 
-The **myAvatar Development Community** contains community-driven documentation, projects, and templates for Netsmart's myAvatar™ EHR.
+The **myAvatar™ Development Community** contains community-driven documentation, projects, and templates for Netsmart's myAvatar™ EHR.
 
 ## Documentation
 
@@ -17,7 +17,7 @@ A custom myAvatar™ web services template.
   
 ## Dependencies
 
-* [Netsmart ScriptLink Service](https://github.com/myAvatar-Development-Community/custom-avatar-web-service-template)<br>
+* [Netsmart ScriptLink Service](https://github.com/myAvatar-Development-Community/dependency-netsmart-scriptlink-service)<br>
   Detailed instructions to create custom web services for Netsmart's myAvatar™ EHR.
 
 ## Additional Resources
