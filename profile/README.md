@@ -35,5 +35,5 @@ A .NET Standard library designed to help accelerate the safe and stable adoption
 * [ScriptLinkStandard](https://github.com/rcskids/ScriptLinkStandard)<br>
 A Class Library designed to assist developers in creating SOAP web services that can be consumed by Netsmart's myAvatar solution using ScriptLink.
 
-* [Roadmap](.github/dev/ROADMAP.md)<br>
+* [Roadmap](dev/ROADMAP.md)<br>
 A Class Library designed to assist developers in creating SOAP web services that can be consumed by Netsmart's myAvatar solution using ScriptLink.
