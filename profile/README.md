@@ -14,6 +14,7 @@ Step-by-step instructions to import a web service into myAvatar™.
 What ScriptLink is, and how to use it.
 
 ## Projects
+
 * Coming soon
 
 ## Templates
