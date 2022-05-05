@@ -8,6 +8,10 @@ The **myAvatar™ Development Community** contains community-driven documentatio
 Step-by-step instructions to create a blank foundation for a custom myAvatar™ web service.
 * [Hosting custom myAvatar™ web services](https://github.com/myAvatar-Development-Community/document-hosting-custom-web-services)<br>
 Step-by-step instructions to create host custom myAvatar™ web services.
+* [Importing web services into myAvatar™](https://github.com/myAvatar-Development-Community/document-importing-web-services-into-myavatar)<br>
+Step-by-step instructions to import a web service into myAvatar™.
+* [Using ScriptLink](https://github.com/myAvatar-Development-Community/document-using-scriptlink)<br>
+What ScriptLink is, and how to use it.
 
 ## Projects
 * Coming soon
