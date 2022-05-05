@@ -4,19 +4,23 @@ The **myAvatar™ Development Community** contains community-driven documentatio
 
 ## Documentation
 
-* [How to create a custom myAvatar™ web service from scratch](https://github.com/myAvatar-Development-Community/document-creating-a-custom-web-service)
-* [Hosting custom myAvatar™ web services](https://github.com/myAvatar-Development-Community/document-hosting-custom-web-services)
+* [How to create a custom myAvatar™ web service from scratch](https://github.com/myAvatar-Development-Community/document-creating-a-custom-web-service)<br>
+Step-by-step instructions to create a blank foundation for a custom myAvatar™ web service.
+* [Hosting custom myAvatar™ web services](https://github.com/myAvatar-Development-Community/document-hosting-custom-web-services)<br>
+Step-by-step instructions to create host custom myAvatar™ web services.
 
 ## Projects
 * Coming soon
 
 ## Templates
 
-* [A custom myAvatar™ web service template ](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)
+* [A custom myAvatar™ web service template ](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)<br>
+A custom web service template you can use to add functionality to your myAvatar™ environments.
   
 ## Dependencies
 
-* [Netsmart ScriptLink Service](https://github.com/myAvatar-Development-Community/dependency-netsmart-scriptlink-service)
+* [Netsmart ScriptLink Service](https://github.com/myAvatar-Development-Community/dependency-netsmart-scriptlink-service)<br>
+The OptionObject 2015 component that is required by web services that interface with myAvatar™.
 
 ## Additional Resources
 
