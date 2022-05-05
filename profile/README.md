@@ -36,4 +36,4 @@ A .NET Standard library designed to help accelerate the safe and stable adoption
 A Class Library designed to assist developers in creating SOAP web services that can be consumed by Netsmart's myAvatar solution using ScriptLink.
 
 * [Roadmap](dev/ROADMAP.md)<br>
-A Class Library designed to assist developers in creating SOAP web services that can be consumed by Netsmart's myAvatar solution using ScriptLink.
+The roadmap for what's planned for the myAvatar Development Community.
