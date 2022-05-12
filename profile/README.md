@@ -11,16 +11,17 @@ Step-by-step instructions to create host custom myAvatar™ web services.
 * [Importing web services into myAvatar™](https://github.com/myAvatar-Development-Community/document-importing-web-services-into-myavatar)<br>
 Step-by-step instructions to import a web service into myAvatar™.
 * [Using ScriptLink](https://github.com/myAvatar-Development-Community/document-using-scriptlink)<br>
-What ScriptLink is, and how to use it.
+What is ScriptLink is, what it does, and how to use it. 
 
 ## Projects
 
-* Coming soon
+* [MyAvatool Web Service Commander (MAWSC)](https://github.com/spectrum-health-systems/MAWSC)<br>
+Tools and utilities for custom myAvatar™ web services.
 
 ## Templates
 
-* [A custom myAvatar™ web service template ](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)<br>
-A custom web service template you can use to add functionality to your myAvatar™ environments.
+* [A custom myAvatar™ web service template](https://github.com/myAvatar-Development-Community/template-custom-myavatar-web-service)<br>
+The foundation for a custom myAvatar™ web services that you can use to add custom functionality to your myAvatar™ environments. 
   
 ## Dependencies
 
